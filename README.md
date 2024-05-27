@@ -1,5 +1,7 @@
 # PubSubDoc
 
+https://speakerdeck.com/nrslib/implementation-pub-sub-microservice
+
 ## 起動方法
 
 1. docker で kafka などを立ち上げます
